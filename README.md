@@ -1,0 +1,2 @@
+# semenadv
+Тема для WordPress
